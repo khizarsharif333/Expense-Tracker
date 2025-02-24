@@ -1,3 +1,3 @@
 # Expense Tracker Web App
 
-Expense Tracker built using Springboot and React.
+Expense Tracker built using Springboot and MySQL.
